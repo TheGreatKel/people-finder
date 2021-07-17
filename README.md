@@ -1,2 +1,5 @@
 # people-finder
-Script that generates urls from people search websites 
+
+Script that generates opens people search websites
+
+Takes in name or address from command line.
